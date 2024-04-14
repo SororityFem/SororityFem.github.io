@@ -4,8 +4,8 @@ body {
 h1 {
   color: #e0218a;
 }
-hr {
-  border-top: color: #e0218a;
+.line {
+  border-bottom: 1px solid #e0218a;
 }
 p {
   color: #e0218a;
