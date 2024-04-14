@@ -5,7 +5,7 @@ h1 {
   color: #e0218a;
 }
 hr.new1 {
-  border-top: color: #e0218a;
+  border-top: 1px solid red;
 }
 p {
   color: #e0218a;
