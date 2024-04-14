@@ -11,6 +11,13 @@ hr.new1 {
 p {
   color: #e0218a;
 }
+
+a {
+  color: #e0128a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a:link {
   color: #e0128a;
   background-color: transparent;
