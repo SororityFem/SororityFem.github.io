@@ -7,6 +7,10 @@ h1 {
 hr {
   color: #e0218a;
 }
+/* Pink Border */
+hr.new1 {
+  border-top: 3px solid #e0128a;
+}
 p {
   color: #e0218a;
 }
