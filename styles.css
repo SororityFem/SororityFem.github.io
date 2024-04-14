@@ -11,3 +11,26 @@ hr.new1 {
 p {
   color: #e0218a;
 }
+a:link {
+  color: #e0128a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #e0128a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e0128a;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #e0128a;
+  background-color: transparent;
+  text-decoration: underline;
+}
